@@ -1,2 +1,5 @@
 # rxJavaExamples
-Examples of basic usage of rxJava
+Basic usage Examples of rxJava.
+
+# Usage
+Clone the repository and run the examples
