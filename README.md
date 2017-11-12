@@ -1,4 +1,4 @@
-# rxJavaExamples
+# rxJava Examples
 Basic usage Examples of rxJava.
 
 # Usage
