@@ -6,7 +6,7 @@ import static java.lang.Thread.sleep;
 public class RxManipulation {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("\n=======MAP==========");
-//
+
         // Blocking observable, anti-pattern, just for the example.
         BlockingObservable<Integer> myObservableMap = Observable.range(1,10)
                 .map(number -> number+1)
